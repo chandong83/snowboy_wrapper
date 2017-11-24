@@ -17,8 +17,8 @@ x86_64 - Support
 
 python version
 ------
->  python2.x - Support
-   python3.x - Support
+>  python2.x - Support<br>
+   python3.x - Support
 
 
 
