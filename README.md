@@ -5,24 +5,25 @@
 Just use the triggerword Folder where you want to use it.
 ---
 
-## Support
+Support
+===
 
-
-Machine <br>
+Machine
 ------
 
->  armv7l - Support (Raspberry Pi2,3) <br>
-   x86_64 - Support
+> armv7l - Support (Raspberry Pi2,3)<br>
+x86_64 - Support
 
 
-python version<br>
+python version
 ------
->  python2.x - Support<br>
+>  python2.x - Support
    python3.x - Support
 
 
-<br>
-## requirement
+
+requirement
+===
 
 <pre>
 <code>
@@ -35,8 +36,9 @@ $ pip install pyaudio
 </code>
 </pre>
 
-<br>
-## for Sample Test
+
+for Sample Test
+===
 
 <pre>
 <code>
@@ -44,14 +46,16 @@ $ python exmaple.py
 </code>
 </pre>
 
-<br>
-## output
+
+output
+===
+
 
 ![img](./img/screen.png)
 
-<br>
-## explain for 'exmaple.py'
 
+explain for 'exmaple.py'
+===
 
 <pre>
 you can say 'snowboy'
