@@ -62,3 +62,7 @@ you can say 'snowboy'
 then snowboy is stopped and displayed to  'Hi, I am here!'
 snowboy will start again after 5sec.
 </pre>
+
+
+
+http://blog.naver.com/chandong83/221147785877
