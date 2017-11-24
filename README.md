@@ -2,8 +2,8 @@
 # This is a snowboy wrapped for easy use.<br>
 
 
-Just use the triggerword Folder where you want to use it.
----
+Just use the **triggerword** Folder where you want to use it.
+
 
 Support
 ===
@@ -18,7 +18,7 @@ x86_64 - Support
 python version
 ------
 >  python2.x - Support<br>
-   python3.x - Support
+  python3.x - Support
 
 
 
