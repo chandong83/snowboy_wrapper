@@ -9,8 +9,9 @@ Just use the <b>triggerword</b> Folder where you want to use it.
 ==========
 Machine<br>
 ------
->  armv7l - Support (Raspberry Pi2,3 OK)  <br>
-  x86_64 - Support
+
+>  armv7l - Support (Raspberry Pi2,3) <br>
+   x86_64 - Support
 
 
 python version<br>
