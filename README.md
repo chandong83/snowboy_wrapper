@@ -5,7 +5,7 @@
 Just use the <b>triggerword</b> Folder where you want to use it.
 ---
 <br>
-1. Support
+Support
 ======
 
 Machine <br>
@@ -22,7 +22,7 @@ python version<br>
 
 
 <br>
-2. requirement
+requirement
 ==========
 <pre>
 <code>
@@ -36,7 +36,7 @@ $ pip install pyaudio
 </pre>
 
 <br>
-3. for Sample Test
+for Sample Test
 ==========
 <pre>
 <code>
@@ -45,12 +45,12 @@ $ python exmaple.py
 </pre>
 
 <br>
-4. output
+output
 ==========
 ![img](./img/screen.png)
 
 <br>
-5. explain for 'exmaple.py'
+explain for 'exmaple.py'
 ==========
 
 <pre>
