@@ -6,7 +6,7 @@ Just use the <b>triggerword</b> Folder where you want to use it.
 ---
 <br>
 1. Support
-==========
+======
 
 Machine <br>
 ------
