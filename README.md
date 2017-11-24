@@ -2,9 +2,9 @@
 # This is a snowboy wrapped for easy use.<br>
 
 
-Just use the <b>triggerword</b> Folder where you want to use it.
+Just use the triggerword Folder where you want to use it.
 ---
-<br>
+
 ## Support
 
 
