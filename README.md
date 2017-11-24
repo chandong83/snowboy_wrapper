@@ -5,8 +5,8 @@
 Just use the <b>triggerword</b> Folder where you want to use it.
 ---
 <br>
-Support
-======
+## Support
+
 
 Machine <br>
 ------
@@ -22,8 +22,8 @@ python version<br>
 
 
 <br>
-requirement
-==========
+## requirement
+
 <pre>
 <code>
 $ sudo apt-get install swig
@@ -36,8 +36,8 @@ $ pip install pyaudio
 </pre>
 
 <br>
-for Sample Test
-==========
+## for Sample Test
+
 <pre>
 <code>
 $ python exmaple.py
@@ -45,13 +45,13 @@ $ python exmaple.py
 </pre>
 
 <br>
-output
-==========
+## output
+
 ![img](./img/screen.png)
 
 <br>
-explain for 'exmaple.py'
-==========
+## explain for 'exmaple.py'
+
 
 <pre>
 you can say 'snowboy'
